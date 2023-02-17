@@ -119,6 +119,7 @@ nav button{
     color: #fff;
     height: 55px;
     width: 175px;
+    cursor: pointer;
 }
 
 .features{
